@@ -20,7 +20,7 @@ export default function Page() {
                 </h2>
                 <div className="flex flex-row flex-wrap gap-6 mt-20">
                     <div className="flex flex-wrap bg-white w-1/5 shadow rounded-2xl overflow-hidden">
-                        <img src="/us/img4.jpg" alt="" className="object-cover h-auto w-full"/>
+                        <img src="/nextjs-github-pages/us/img4.jpg" alt="" className="object-cover h-auto w-full"/>
                         <div className="p-3 justify-center h-15">
                             <div className="flex mt-0 gap-2 items-center font-extralight italic">
                             11/21/2023
