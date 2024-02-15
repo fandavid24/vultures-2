@@ -39,7 +39,7 @@ export default function Page() {
                         <img src="us/img3.jpg" alt="" className="object-cover h-auto w-full"/>
                         <div className="p-3 justify-center h-15">
                             <div className="flex mt-0 gap-2 items-center font-extralight italic">
-                            dec/24/2023
+                            12/24/2023
                             </div>
                         </div>
                     </div>
@@ -47,7 +47,7 @@ export default function Page() {
                         <img src="us/img1.jpg" alt="" className="object-cover h-auto w-full"/>
                         <div className="p-3 justify-center h-15">
                             <div className="flex mt-0 gap-2 items-center font-extralight italic">
-                            dec/25/2023
+                            12/25/2023
                             </div>
                         </div>
                     </div>
